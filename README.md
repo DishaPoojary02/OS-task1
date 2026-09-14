@@ -302,6 +302,6 @@ The first program displays producer and consumer activity in the terminal. The s
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Disha**
 
 *Operating Systems — Thread-Based Programming Assignment*
